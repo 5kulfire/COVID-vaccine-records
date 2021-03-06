@@ -1,0 +1,338 @@
+[
+ {
+   "report_date": "2020-12-24",
+   "previous_day_doses_administered": "",
+   "total_doses_administered": "10,756",
+   "total_doses_in_fully_vaccinated_individuals": "",
+   "total_individuals_fully_vaccinated": ""
+ },
+ {
+   "report_date": "2020-12-30",
+   "previous_day_doses_administered": "4,595",
+   "total_doses_administered": "18,603",
+   "total_doses_in_fully_vaccinated_individuals": "",
+   "total_individuals_fully_vaccinated": ""
+ },
+ {
+   "report_date": "2020-12-31",
+   "previous_day_doses_administered": "5,463",
+   "total_doses_administered": "23,502",
+   "total_doses_in_fully_vaccinated_individuals": "",
+   "total_individuals_fully_vaccinated": ""
+ },
+ {
+   "report_date": "2021-01-01",
+   "previous_day_doses_administered": "5,415",
+   "total_doses_administered": "28,887",
+   "total_doses_in_fully_vaccinated_individuals": "",
+   "total_individuals_fully_vaccinated": ""
+ },
+ {
+   "report_date": "2021-01-02",
+   "previous_day_doses_administered": "4,305",
+   "total_doses_administered": "33,191",
+   "total_doses_in_fully_vaccinated_individuals": "",
+   "total_individuals_fully_vaccinated": ""
+ },
+ {
+   "report_date": "2021-01-03",
+   "previous_day_doses_administered": "4,361",
+   "total_doses_administered": "37,551",
+   "total_doses_in_fully_vaccinated_individuals": "",
+   "total_individuals_fully_vaccinated": ""
+ },
+ {
+   "report_date": "2021-01-04",
+   "previous_day_doses_administered": "4,808",
+   "total_doses_administered": "42,419",
+   "total_doses_in_fully_vaccinated_individuals": "",
+   "total_individuals_fully_vaccinated": ""
+ },
+ {
+   "report_date": "2021-01-05",
+   "previous_day_doses_administered": "7,607",
+   "total_doses_administered": "50,030",
+   "total_doses_in_fully_vaccinated_individuals": "",
+   "total_individuals_fully_vaccinated": ""
+ },
+ {
+   "report_date": "2021-01-06",
+   "previous_day_doses_administered": "10,350",
+   "total_doses_administered": "60,380",
+   "total_doses_in_fully_vaccinated_individuals": "860",
+   "total_individuals_fully_vaccinated": "430"
+ },
+ {
+   "report_date": "2021-01-07",
+   "previous_day_doses_administered": "12,251",
+   "total_doses_administered": "72,631",
+   "total_doses_in_fully_vaccinated_individuals": "2,173",
+   "total_individuals_fully_vaccinated": "1,087"
+ },
+ {
+   "report_date": "2021-01-08",
+   "previous_day_doses_administered": "14,932",
+   "total_doses_administered": "87,563",
+   "total_doses_in_fully_vaccinated_individuals": "4,053",
+   "total_individuals_fully_vaccinated": "2,027"
+ },
+ {
+   "report_date": "2021-01-09",
+   "previous_day_doses_administered": "15,700",
+   "total_doses_administered": "103,263",
+   "total_doses_in_fully_vaccinated_individuals": "5,880",
+   "total_individuals_fully_vaccinated": "2,940"
+ },
+ {
+   "report_date": "2021-01-10",
+   "previous_day_doses_administered": "9,983",
+   "total_doses_administered": "113,246",
+   "total_doses_in_fully_vaccinated_individuals": "5,884",
+   "total_individuals_fully_vaccinated": "2,942"
+ },
+ {
+   "report_date": "2021-01-11",
+   "previous_day_doses_administered": "8,859",
+   "total_doses_administered": "122,105",
+   "total_doses_in_fully_vaccinated_individuals": "5,884",
+   "total_individuals_fully_vaccinated": "2,942"
+ },
+ {
+   "report_date": "2021-01-12",
+   "previous_day_doses_administered": "11,448",
+   "total_doses_administered": "133,553",
+   "total_doses_in_fully_vaccinated_individuals": "6,046",
+   "total_individuals_fully_vaccinated": "3,023"
+ },
+ {
+   "report_date": "2021-01-13",
+   "previous_day_doses_administered": "11,231",
+   "total_doses_administered": "144,784",
+   "total_doses_in_fully_vaccinated_individuals": "8,778",
+   "total_individuals_fully_vaccinated": "4,389"
+ },
+ {
+   "report_date": "2021-01-14",
+   "previous_day_doses_administered": "14,237",
+   "total_doses_administered": "159,021",
+   "total_doses_in_fully_vaccinated_individuals": "13,293",
+   "total_individuals_fully_vaccinated": "6,647"
+ },
+ {
+   "report_date": "2021-01-15",
+   "previous_day_doses_administered": "15,609",
+   "total_doses_administered": "174,630",
+   "total_doses_in_fully_vaccinated_individuals": "17,094",
+   "total_individuals_fully_vaccinated": "8,547"
+ },
+ {
+   "report_date": "2021-01-16",
+   "previous_day_doses_administered": "14,460",
+   "total_doses_administered": "189,090",
+   "total_doses_in_fully_vaccinated_individuals": "19,333",
+   "total_individuals_fully_vaccinated": "9,667"
+ },
+ {
+   "report_date": "2021-01-17",
+   "previous_day_doses_administered": "11,007",
+   "total_doses_administered": "200,097",
+   "total_doses_in_fully_vaccinated_individuals": "21,714",
+   "total_individuals_fully_vaccinated": "10,857"
+ },
+ {
+   "report_date": "2021-01-18",
+   "previous_day_doses_administered": "9,691",
+   "total_doses_administered": "209,788",
+   "total_doses_in_fully_vaccinated_individuals": "21,752",
+   "total_individuals_fully_vaccinated": "10,876"
+ },
+ {
+   "report_date": "2021-01-19",
+   "previous_day_doses_administered": "14,346",
+   "total_doses_administered": "224,134",
+   "total_doses_in_fully_vaccinated_individuals": "25,609",
+   "total_individuals_fully_vaccinated": "12,805"
+ },
+ {
+   "report_date": "2021-01-20",
+   "previous_day_doses_administered": "13,784",
+   "total_doses_administered": "237,918",
+   "total_doses_in_fully_vaccinated_individuals": "32,361",
+   "total_individuals_fully_vaccinated": "16,181"
+ },
+ {
+   "report_date": "2021-01-21",
+   "previous_day_doses_administered": "15,899",
+   "total_doses_administered": "253,817",
+   "total_doses_in_fully_vaccinated_individuals": "40,225",
+   "total_individuals_fully_vaccinated": "20,113"
+ },
+ {
+   "report_date": "2021-01-22",
+   "previous_day_doses_administered": "11,168",
+   "total_doses_administered": "264,985",
+   "total_doses_in_fully_vaccinated_individuals": "49,292",
+   "total_individuals_fully_vaccinated": "24,646"
+ },
+ {
+   "report_date": "2021-01-23",
+   "previous_day_doses_administered": "11,161",
+   "total_doses_administered": "276,146",
+   "total_doses_in_fully_vaccinated_individuals": "57,907",
+   "total_individuals_fully_vaccinated": "28,954"
+ },
+ {
+   "report_date": "2021-01-24",
+   "previous_day_doses_administered": "4,427",
+   "total_doses_administered": "280,573",
+   "total_doses_in_fully_vaccinated_individuals": "62,881",
+   "total_individuals_fully_vaccinated": "31,441"
+ },
+ {
+   "report_date": "2021-01-25",
+   "previous_day_doses_administered": "5,537",
+   "total_doses_administered": "286,110",
+   "total_doses_in_fully_vaccinated_individuals": "71,256",
+   "total_individuals_fully_vaccinated": "35,628"
+ },
+ {
+   "report_date": "2021-01-26",
+   "previous_day_doses_administered": "9,707",
+   "total_doses_administered": "295,817",
+   "total_doses_in_fully_vaccinated_individuals": "83,285",
+   "total_individuals_fully_vaccinated": "41,643"
+ },
+ {
+   "report_date": "2021-01-27",
+   "previous_day_doses_administered": "9,513",
+   "total_doses_administered": "305,330",
+   "total_doses_in_fully_vaccinated_individuals": "96,459",
+   "total_individuals_fully_vaccinated": "48,230"
+ },
+ {
+   "report_date": "2021-01-28",
+   "previous_day_doses_administered": "11,910",
+   "total_doses_administered": "317,240",
+   "total_doses_in_fully_vaccinated_individuals": "110,571",
+   "total_individuals_fully_vaccinated": "55,286"
+ },
+ {
+   "report_date": "2021-01-29",
+   "previous_day_doses_administered": "10,215",
+   "total_doses_administered": "327,455",
+   "total_doses_in_fully_vaccinated_individuals": "123,357",
+   "total_individuals_fully_vaccinated": "61,679"
+ },
+ {
+   "report_date": "2021-01-30",
+   "previous_day_doses_administered": "9,373",
+   "total_doses_administered": "336,828",
+   "total_doses_in_fully_vaccinated_individuals": "135,574",
+   "total_individuals_fully_vaccinated": "67,787"
+ },
+ {
+   "report_date": "2021-01-31",
+   "previous_day_doses_administered": "2,816",
+   "total_doses_administered": "339,644",
+   "total_doses_in_fully_vaccinated_individuals": "137,698",
+   "total_individuals_fully_vaccinated": "68,849"
+ },
+ {
+   "report_date": "2021-02-01",
+   "previous_day_doses_administered": "2,256",
+   "total_doses_administered": "341,900",
+   "total_doses_in_fully_vaccinated_individuals": "140,585",
+   "total_individuals_fully_vaccinated": "70,293"
+ },
+ {
+   "report_date": "2021-02-02",
+   "previous_day_doses_administered": "2,715",
+   "total_doses_administered": "344,615",
+   "total_doses_in_fully_vaccinated_individuals": "144,113",
+   "total_individuals_fully_vaccinated": "72,057"
+ },
+ {
+   "report_date": "2021-02-03",
+   "previous_day_doses_administered": "3,716",
+   "total_doses_administered": "348,331",
+   "total_doses_in_fully_vaccinated_individuals": "149,987",
+   "total_individuals_fully_vaccinated": "74,994"
+ },
+ {
+   "report_date": "2021-02-04",
+   "previous_day_doses_administered": "6,724",
+   "total_doses_administered": "355,055",
+   "total_doses_in_fully_vaccinated_individuals": "161,954",
+   "total_individuals_fully_vaccinated": "80,977"
+ },
+ {
+   "report_date": "2021-02-05",
+   "previous_day_doses_administered": "7,694",
+   "total_doses_administered": "362,749",
+   "total_doses_in_fully_vaccinated_individuals": "175,662",
+   "total_individuals_fully_vaccinated": "87,831"
+ },
+ {
+   "report_date": "2021-02-06",
+   "previous_day_doses_administered": "9,917",
+   "total_doses_administered": "372,666",
+   "total_doses_in_fully_vaccinated_individuals": "193,146",
+   "total_individuals_fully_vaccinated": "96,573"
+ },
+ {
+   "report_date": "2021-02-07",
+   "previous_day_doses_administered": "6,518",
+   "total_doses_administered": "379,184",
+   "total_doses_in_fully_vaccinated_individuals": "203,487",
+   "total_individuals_fully_vaccinated": "101,744"
+ },
+ {
+   "report_date": "2021-02-08",
+   "previous_day_doses_administered": "6,987",
+   "total_doses_administered": "386,171",
+   "total_doses_in_fully_vaccinated_individuals": "212,326",
+   "total_individuals_fully_vaccinated": "106,163"
+ },
+ {
+   "report_date": "2021-02-09",
+   "previous_day_doses_administered": "12,462",
+   "total_doses_administered": "398,633",
+   "total_doses_in_fully_vaccinated_individuals": "231,058",
+   "total_individuals_fully_vaccinated": "115,529"
+ },
+ {
+   "report_date": "2021-02-10",
+   "previous_day_doses_administered": "13,486",
+   "total_doses_administered": "412,119",
+   "total_doses_in_fully_vaccinated_individuals": "251,449",
+   "total_individuals_fully_vaccinated": "125,725"
+ },
+ {
+   "report_date": "2021-02-11",
+   "previous_day_doses_administered": "14,717",
+   "total_doses_administered": "426,836",
+   "total_doses_in_fully_vaccinated_individuals": "273,975",
+   "total_individuals_fully_vaccinated": "136,988"
+ },
+ {
+   "report_date": "2021-02-12",
+   "previous_day_doses_administered": "15,605",
+   "total_doses_administered": "442,441",
+   "total_doses_in_fully_vaccinated_individuals": "302,563",
+   "total_individuals_fully_vaccinated": "151,282"
+ },
+ {
+   "report_date": "2021-02-13",
+   "previous_day_doses_administered": "14,506",
+   "total_doses_administered": "456,947",
+   "total_doses_in_fully_vaccinated_individuals": "328,614",
+   "total_individuals_fully_vaccinated": "164,307"
+ },
+ {
+   "report_date": "2021-02-14",
+   "previous_day_doses_administered": "10,679",
+   "total_doses_administered": "467,626",
+   "total_doses_in_fully_vaccinated_individuals": "349,286",
+   "total_individuals_fully_vaccinated": "174,643"
+ }
+]
